@@ -1,1 +1,0 @@
-https://github.com/facebookresearch/detectron2/blob/43fc8650eaa5f3044a6896de8e34c18ae4a6b3f5/tools/train_net.py#L164
